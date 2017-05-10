@@ -13,7 +13,7 @@ In the fianl deliverables we present four plots, a heatmap on a world map, a "ri
 
 ![](./screen_shots/heat.png)
 
-The ribbon time series is to show two variables simultaneously changing over time in a single line. The height on the y-axis of of the line indicates the value of one variable at time $$x$$ while the width of the ribbon indicates the value of the second variable at time $x$. The non-time variables are all normalized so the minimum vaues is zero and the maximum is one. This allows the width and height to be simultaneously meaningful, but when two countries are displayed simultaneously we cannot compare the values of the variables between the two countries only the change of the variables.
+The ribbon time series is to show two variables simultaneously changing over time in a single line. The height on the y-axis of of the line indicates the value of one variable at time $x$ while the width of the ribbon indicates the value of the second variable at time $x$. The non-time variables are all normalized so the minimum vaues is zero and the maximum is one. This allows the width and height to be simultaneously meaningful, but when two countries are displayed simultaneously we cannot compare the values of the variables between the two countries only the change of the variables.
 
 ![](./screen_shots/time.png)
 
